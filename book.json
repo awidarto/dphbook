@@ -1,0 +1,37 @@
+{
+    "hpub": 1,
+    "title": "Dover Park Hospice",
+    "author": ["Lai Kok Fung"],
+    "creator": ["Andy Awidarto"],
+    "date": "2014-01-28",
+    "url": "book://lakercompendium.com/book/",
+
+    "orientation": "both",
+    "zoomable": false,
+
+    "-baker-background": "#fff",
+    "-baker-vertical-bounce": true,
+    "-baker-index-height": 200,
+    "-baker-media-autoplay": true,
+    "-baker-background-image-portrait": "images/background-portrait.png",
+    "-baker-background-image-landscape": "images/background-landscape.png",
+    "-baker-page-numbers-color": "#333",
+
+    "contents": [
+        "Cover.html",
+        "Chapter_One.html",
+        "Chapter_Two.html",
+        "Chapter_Three.html",
+        "Chapter_Four.html"
+        "Chapter_Five.html"
+        "Chapter_Six.html"
+        "Chapter_Seven.html"
+        "Chapter_Eight.html"
+        "Chapter_Nine.html"
+        "Chapter_Ten.html"
+        "Chapter_Eleven.html"
+        "Chapter_Twelve.html"
+        "Chapter_Thirteen.html"
+        "Chapter_Fourteen.html"
+     ]
+}
